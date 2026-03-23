@@ -1,0 +1,18 @@
+{
+  "tabs": {
+    "home": "Home",
+    "search": "Search",
+    "folders": "Folders",
+    "calendar": "Calendar",
+    "profile": "Profile"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "empty": "No results found",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  }
+}

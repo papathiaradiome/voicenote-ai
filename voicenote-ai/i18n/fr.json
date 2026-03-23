@@ -14,5 +14,34 @@
     "save": "Enregistrer",
     "cancel": "Annuler",
     "delete": "Supprimer"
+  },
+  "auth": {
+    "email": "Adresse Email",
+    "password": "Mot de passe",
+    "signIn": "Se connecter",
+    "forgotPassword": "Mot de passe oublié ?",
+    "noAccount": "Pas de compte ? S'inscrire",
+    "or": "ou",
+    "continueGoogle": "Continuer avec Google",
+    "continueApple": "Continuer avec Apple",
+    "magicLink": "Connexion par lien magique",
+    "loginError": "Erreur de connexion",
+    "createAccount": "Créer un compte",
+    "fullName": "Nom complet",
+    "confirmPassword": "Confirmer le mot de passe",
+    "acceptTerms": "J'accepte les CGU et la Politique de confidentialité",
+    "registerButton": "Créer mon compte",
+    "alreadyHaveAccount": "Déjà un compte ? Se connecter",
+    "checkEmail": "Vérifiez votre email pour confirmer votre compte",
+    "resetLinkSent": "Un email vous a été envoyé, vérifiez votre boîte de réception",
+    "sendResetLink": "Envoyer le lien de réinitialisation",
+    "backToLogin": "Retour à la connexion"
+  },
+  "onboarding": {
+    "slide1": { "title": "Enregistrez tout", "desc": "Capturez vos réunions, cours et idées en un clic" },
+    "slide2": { "title": "L'IA transcrit et résume", "desc": "Transcription automatique, résumés intelligents, mind maps" },
+    "slide3": { "title": "Organisez et retrouvez", "desc": "Classez, recherchez et partagez vos notes facilement" },
+    "next": "Suivant",
+    "start": "Commencer"
   }
 }

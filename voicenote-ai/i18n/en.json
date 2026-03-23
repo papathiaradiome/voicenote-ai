@@ -14,5 +14,34 @@
     "save": "Save",
     "cancel": "Cancel",
     "delete": "Delete"
+  },
+  "auth": {
+    "email": "Email Address",
+    "password": "Password",
+    "signIn": "Sign In",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account? Sign up",
+    "or": "or",
+    "continueGoogle": "Continue with Google",
+    "continueApple": "Continue with Apple",
+    "magicLink": "Sign in with magic link",
+    "loginError": "Login error",
+    "createAccount": "Create an account",
+    "fullName": "Full Name",
+    "confirmPassword": "Confirm password",
+    "acceptTerms": "I accept the Terms and Privacy Policy",
+    "registerButton": "Create my account",
+    "alreadyHaveAccount": "Already have an account? Sign in",
+    "checkEmail": "Check your email to confirm your account",
+    "resetLinkSent": "An email has been sent, check your inbox",
+    "sendResetLink": "Send reset link",
+    "backToLogin": "Back to login"
+  },
+  "onboarding": {
+    "slide1": { "title": "Record everything", "desc": "Capture your meetings, classes and ideas in one click" },
+    "slide2": { "title": "AI transcribes & summarizes", "desc": "Automatic transcription, smart summaries, mind maps" },
+    "slide3": { "title": "Organize & find", "desc": "Classify, search and share your notes easily" },
+    "next": "Next",
+    "start": "Start"
   }
 }

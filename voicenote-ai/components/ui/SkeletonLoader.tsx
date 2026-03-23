@@ -1,9 +1,11 @@
 import React from 'react';
 import { View } from 'react-native';
 
+import { DimensionValue } from 'react-native';
+
 interface SkeletonProps {
-  width?: number | string;
-  height?: number | string;
+  width?: DimensionValue;
+  height?: DimensionValue;
   borderRadius?: number;
   className?: string;
 }
